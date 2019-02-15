@@ -4,7 +4,7 @@
 
 ### Contexte
 
-On étudie les risques d'attaques dans un environnement du réseau militaire, et comment les détecter parmi toutes les connexions.
+En 1998 le DARPA a enregistré 9 semaines de connexions TCP ayant eu lieu dans une simulation de  réseau LAN typique de l’US Air Force, en les parsemant avec des connexions malveillantes.
 
 ### Objectif
 
